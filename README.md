@@ -28,6 +28,10 @@ Or if you the want the nightly version (unstable but latest features), you can a
 noirup -n
 ```
 
+** For Windows **
+
+`noirup` only works on Linux or MacOS. For Windows you'll need to follow another procedure. You can refer to the [Noir Docs](https://noir-lang.org/getting_started/nargo_installation#windows-powershell) for this.
+
 ## Usage
 
 First `cd` to the folder you want to work with.
